@@ -51,11 +51,11 @@
             //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
 
             bindings = <
-&kp AT_SIGN     &kp EXCLAMATION  &kp ASTERISK  &kp PLUS      &kp MINUS                 &kp EQUAL                               &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDER  &kp SLASH   &trans
-&kp LG(TAB)     &kp F            &kp D         &kp L         &kp B                     &kp V                                   &kp J                 &kp G             &kp O              &kp U      &kp COMMA   &kp LG(SPACE)
-&kp LEFT_SHIFT  &kp S            &kp T         &kp R         &kp N                     &kp K                                   &kp Y                 &kp M             &kp A              &kp E      &kp I       &kp RIGHT_SHIFT
-&kp ESCAPE      &kp Z            &kp Q         &kp X         &kp H                     &kp P      &kp DOLLAR    &kp AMPERSAND  &kp W                 &kp C             &kp SINGLE_QUOTE   &kp COLON  &kp PERIOD  &trans
-                                               &kp LEFT_ALT  &kp RS(RA(LEFT_CONTROL))  &lt 1 TAB  &kp SPACE     &kp RET        &lt 2 DELETE          &kp BACKSPACE     &kp RIGHT_ALT
+&kp AT_SIGN  &kp EXCLAMATION  &kp ASTERISK  &kp PLUS      &kp MINUS       &kp EQUAL                               &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDER  &kp SLASH   &trans
+&kp LG(TAB)  &kp F            &kp D         &kp L         &kp B           &kp V                                   &kp J                 &kp G             &kp O              &kp U      &kp COMMA   &kp LG(SPACE)
+&trans       &kp S            &kp T         &kp R         &kp N           &kp K                                   &kp Y                 &kp M             &kp A              &kp E      &kp I       &trans
+&kp ESCAPE   &kp Z            &kp Q         &kp X         &kp H           &kp P      &kp DOLLAR    &kp AMPERSAND  &kp W                 &kp C             &kp SINGLE_QUOTE   &kp COLON  &kp PERIOD  &trans
+                                            &kp LEFT_ALT  &kp LEFT_SHIFT  &lt 1 TAB  &kp SPACE     &kp RET        &lt 2 DELETE          &kp BACKSPACE     &kp RIGHT_ALT
             >;
         };
 
