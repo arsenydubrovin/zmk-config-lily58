@@ -51,7 +51,7 @@
             //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
 
             bindings = <
-&kp GRAVE      &kp EXCLAMATION  &kp ASTERISK  &kp PLUS      &kp MINUS       &kp EQUAL                               &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDER  &kp SLASH   &kp PIPE
+&kp GRAVE      &kp EXCLAMATION  &kp ASTERISK  &kp PLUS      &kp MINUS       &kp EQUAL                               &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDER  &kp SLASH   &kp BACKSLASH
 &kp TAB        &kp F            &kp D         &kp L         &kp B           &kp V                                   &kp J                 &kp G             &kp O              &kp U      &kp COMMA   &kp AT
 &kp LC(SPACE)  &kp S            &kp T         &kp R         &kp N           &kp K                                   &kp Y                 &kp M             &kp A              &kp E      &kp I       &kp LG(SPACE)
 &kp ESCAPE     &kp Z            &kp Q         &kp X         &kp H           &kp P      &kp DOLLAR    &kp AMPERSAND  &kp W                 &kp C             &kp SINGLE_QUOTE   &kp COLON  &kp PERIOD  &kp ENTER
