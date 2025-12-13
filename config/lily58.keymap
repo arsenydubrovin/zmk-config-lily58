@@ -53,7 +53,7 @@
             bindings = <
 &kp GRAVE   &kp EXCLAMATION  &kp ASTERISK  &kp PLUS      &kp MINUS       &kp EQUAL                               &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDER  &kp SLASH   &kp AT_SIGN
 &kp TAB     &kp F            &kp D         &kp L         &kp B           &kp V                                   &kp J                 &kp G             &kp O              &kp U      &kp COMMA   &kp LG(SPACE)
-&lt 1 F13   &kp S            &kp T         &kp R         &kp N           &kp K                                   &kp Y                 &kp M             &kp A              &kp E      &kp I       &lt 2 F14
+&lt 1 F19   &kp S            &kp T         &kp R         &kp N           &kp K                                   &kp Y                 &kp M             &kp A              &kp E      &kp I       &lt 2 F20
 &kp ESCAPE  &kp Z            &kp Q         &kp X         &kp H           &kp P      &kp DOLLAR    &kp AMPERSAND  &kp W                 &kp C             &kp SINGLE_QUOTE   &kp COLON  &kp PERIOD  &kp ENTER
                                            &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LCMD   &kp SPACE     &kp BACKSPACE  &kp LCTRL             &kp LEFT_SHIFT    &kp RCMD
             >;
