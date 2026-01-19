@@ -42,11 +42,11 @@
             //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
 
             bindings = <
-&kp NON_US_BACKSLASH  &kp N1  &kp N2  &kp N3    &kp N4     &kp N5                                &kp N6     &kp NUMBER_7  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp N0     &kp EQUAL
-&kp TAB               &kp F   &kp D   &kp L     &kp B      &kp W                                 &kp J      &kp G         &kp O             &kp U              &kp COMMA  &kp LG(SPACE)
-&mo 1                 &kp S   &kp T   &kp R     &kp N      &kp K                                 &kp Y      &kp M         &kp A             &kp E              &kp I      &mo 2
-&kp ESC               &kp Z   &kp Q   &kp X     &kp H      &kp P     &kp SLASH    &kp BACKSLASH  &kp V      &kp C         &kp SEMICOLON     &kp SQT            &kp DOT    &kp RET
-                                      &kp LALT  &kp LSHFT  &kp LGUI  &kp SPACE    &kp BSPC       &kp LCTRL  &kp LSHFT     &kp RGUI
+&kp NON_US_BACKSLASH  &kp N1  &kp N2  &kp N3    &kp N4     &kp N5                                &kp N6     &kp NUMBER_7     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp N0     &kp EQUAL
+&kp TAB               &kp F   &kp D   &kp L     &kp B      &kp W                                 &kp J      &kp G            &kp O             &kp U              &kp COMMA  &kp LG(SPACE)
+&mo 1                 &kp S   &kp T   &kp R     &kp N      &kp K                                 &kp Y      &kp M            &kp A             &kp E              &kp I      &mo 2
+&kp ESC               &kp Z   &kp Q   &kp X     &kp H      &kp P     &kp SLASH    &kp BACKSLASH  &kp V      &kp C            &kp SEMICOLON     &kp SQT            &kp DOT    &kp RET
+                                      &kp LALT  &kp LSHFT  &kp LGUI  &kp SPACE    &kp BSPC       &kp LCTRL  &kp RIGHT_SHIFT  &kp RIGHT_ALT
             >;
         };
 
